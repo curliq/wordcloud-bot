@@ -1,0 +1,8 @@
+[package]
+name = "wordcloud-bot"
+version = "0.1.0"
+authors = ["curlicue"]
+edition = "2018"
+
+[dependencies]
+image = "*"

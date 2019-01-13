@@ -6,3 +6,12 @@ edition = "2018"
 
 [dependencies]
 image = "*"
+serenity = "0.5"
+log = "0.4.6"
+env_logger = "0.6.0"
+toml = "0.4.10"
+serde = "1.0"
+serde_derive = "1.0"
+rusttype = "0.7.3"
+imageproc = "0.17.0"
+chrono = "0.4"
